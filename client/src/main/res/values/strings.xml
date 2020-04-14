@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">client</string>
+    <string name="send_message">send message to server</string>
+    <string name="get_message">get message from server</string>
+</resources>
